@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="E-Mobile Store/Product/src"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/sqljdbc4-2.0.jar"/>
+	<classpathentry kind="output" path="E-Mobile Store/Product/bin"/>
+</classpath>
