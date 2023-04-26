@@ -4,8 +4,8 @@ This repository contains the Java-based console application for an online mobile
 
 Modules:
 
-Emobile store
-Product cart
-Product information
-User details
-User detail validation. 
+- Emobile store
+- Product cart
+- Product information
+- User details
+- User detail validation. 
